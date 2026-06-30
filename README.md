@@ -128,3 +128,11 @@ Aspiring Software Engineer
 ## License
 
 This repository is intended for educational and learning purposes.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AnubhabMishra06/Leetcode-java/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
