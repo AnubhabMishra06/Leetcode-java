@@ -137,6 +137,7 @@ This repository is intended for educational and learning purposes.
 | [0009-palindrome-number](https://github.com/AnubhabMishra06/Leetcode-java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnubhabMishra06/Leetcode-java/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/AnubhabMishra06/Leetcode-java/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AnubhabMishra06/Leetcode-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
